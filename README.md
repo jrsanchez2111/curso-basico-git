@@ -1,7 +1,7 @@
 # Esto es un titulo H1
 ## Esto es un titulo H2
 ### Esto es un titulo H3
-Esto es un titulo **texto en negrita**
+Esto es un titulo **texto en negrita** **texto personalizado**
 > Esto es un bloque de texto
 - item 1
 - item 2
