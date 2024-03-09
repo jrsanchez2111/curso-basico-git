@@ -3,6 +3,8 @@
 ### Esto es un titulo H3
 ## Esto es un titulo H2
 
+Esto es otro cambio parcial
+
 Esto es un titulo **texto en negrita** **texto personalizado**
 > Esto es un bloque de texto
 - item 1
