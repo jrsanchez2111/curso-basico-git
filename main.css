@@ -1,0 +1,14 @@
+/*body{
+    background-color: #eeeeee;
+    color: #ff0000;
+    }*/
+
+body{
+    background-color: whitesmoke;
+} 
+#parrafo{ /* "#" se usa para seleccionar id*/
+    color: rgb(88, 86, 86);
+}
+.etiqueta{ /* "."se usa para seleccionar la clase*/
+    color: blue;
+}
